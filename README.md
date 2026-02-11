@@ -65,3 +65,6 @@ Exploratory Data Analysis: We will investigate if there are any gender or race-b
 Data Visualization: Power BI will be used to create interactive dashboards and visualizations that provide a clear view of compensation structures, disparities, and market competitiveness.
 
 Reporting & Recommendation: Based on the analysis, we will make recommendations to optimize compensation structures, ensuring fairness and competitiveness.
+
+https://lookerstudio.google.com/u/0/reporting/c34de62b-b44f-4a75-8803-51ca9411f852/page/p_aw4tjblg0d/edit
+
